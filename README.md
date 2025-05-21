@@ -51,7 +51,7 @@ The project consists of three core components:
 
 ## 📁 Project Structure Overview
 
-### 🔧 MagicVilla_VillaAPI
+### ⚙️ MagicVilla_VillaAPI
 - `Controllers/`: API endpoints for managing villas and related entities.
 - `Data/`: Database context and related configurations.
 - `Models/`: Domain models representing the villa data.
