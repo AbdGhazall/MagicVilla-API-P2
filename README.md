@@ -76,6 +76,7 @@ The project consists of three core components:
 - `SD.cs`: Contains static details and constants shared across the solution.
 
 ---
+## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/57f6832e-64c7-45e0-bbd8-7c0ad3dcb88c)  
 ![image](https://github.com/user-attachments/assets/bf271f39-3376-4ee5-9490-e7460254e8e8)  
 ![image](https://github.com/user-attachments/assets/b2053910-3409-474c-a818-57c4fe1194ba)  
